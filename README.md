@@ -932,69 +932,69 @@ Paper list for broad topics in machine learning systems
 
 ## VLM
 - InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
---Ziya-VL: Bilingual Large Vision-Language Model via Multi-Task Instruction Tuning
---MobileVLM V2: Faster and Stronger Baseline for Vision Language Model
---Towards Multimodal In-Context Learning for Vision & Language Models
---A Comprehensive Overhaul of Multimodal Assistant with Small Language Models
---Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond
---Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions
---MLLMReID: Multimodal Large Language Model-based Person Re-identification
---MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training
---A Survey on Multimodal Large Language Models
---Bunny: Efficient Multimodal Learning from Data-centric Perspective
---ModalVerse.pdf [私]
---ModaVerse: Efficiently Transforming Modalities with LLMs
---CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation
---VILA: On Pre-training for Visual Language Models
---InternVideo: General Video Foundation Models via Generative and Discriminative Learning
---LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment
---Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
---Video Understanding with Large Language Models: A Survey
---NExT-GPT: Any-to-Any Multimodal LLM
---TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones
---Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models
---LLaVA 1.6 [私]
---Vary-Toy: Small Language Model Meets with Reinforced Vision Vocabulary
---MM-LLMs: Recent Advances in MultiModal Large Language Models
---LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day
---ScienceQA | Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering
---Multimodal Chain-of-Thought Reasoning in Language Models
---LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models
---PALI-3 VISION LANGUAGE MODELS: SMALLER, FASTER, STRONGER
---MINIGPT-V2: LARGE LANGUAGE MODEL AS A UNIFIED INTERFACE FOR VISION-LANGUAGE MULTI-TASK LEARNING
---UNIFYING ARCHITECTURES, TASKS, AND MODALITIES THROUGH A SIMPLE SEQUENCE-TO-SEQUENCE LEARNING FRAMEWORK
---ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst
---Any-to-Any Generation via Composable Diffusion
---KOSMOS-2: Grounding Multimodal Large Language Models to the World
---LEGO:Language Enhanced Multi-modal Grounding Model [私]
---MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices
---Ferret: Refer and Ground Anything Anywhere at Any Granularity
---Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action
---LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge
---ImageBind: One Embedding Space To Bind Them All
---ImageBind-LLM: Multi-modality Instruction Tuning
---Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V [私]
---COGVLM: VISUAL EXPERT FOR LARGE LANGUAGE MODELS
---PaLI-X: On Scaling up a Multilingual Vision and Language Model
---Learning to Prompt for Vision-Language Models
---OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models
---LLaVA: Visual Instruction Tuning
---MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
---Flamingo: a Visual Language Model for Few-Shot Learning
---GLIP: Grounded Language-Image Pre-training
---Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese
---Vision-Language Models for Vision Tasks: A Survey
---SimVLM: Simple Visual Language Model Pretraining with Weak Supervision
---Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks
---BEiT3: Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks
---CoCa: Contrastive Captioners are Image-Text Foundation Models
---VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts
---InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning
---Align before Fuse: Vision and Language Representation Learning with Momentum Distillation
---ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision
---BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
---BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
---CLIP: Learning Transferable Visual Models From Natural Language Supervision
+- Ziya-VL: Bilingual Large Vision-Language Model via Multi-Task Instruction Tuning
+- MobileVLM V2: Faster and Stronger Baseline for Vision Language Model
+- Towards Multimodal In-Context Learning for Vision & Language Models
+- A Comprehensive Overhaul of Multimodal Assistant with Small Language Models
+- Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond
+- Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions
+- MLLMReID: Multimodal Large Language Model-based Person Re-identification
+- MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training
+- A Survey on Multimodal Large Language Models
+- Bunny: Efficient Multimodal Learning from Data-centric Perspective
+- ModalVerse.pdf
+- ModaVerse: Efficiently Transforming Modalities with LLMs
+- CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation
+- VILA: On Pre-training for Visual Language Models
+- InternVideo: General Video Foundation Models via Generative and Discriminative Learning
+- LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment
+- Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
+- Video Understanding with Large Language Models: A Survey
+- NExT-GPT: Any-to-Any Multimodal LLM
+- TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones
+- Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models
+- LLaVA 1.6
+- Vary-Toy: Small Language Model Meets with Reinforced Vision Vocabulary
+- MM-LLMs: Recent Advances in MultiModal Large Language Models
+- LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day
+- ScienceQA | Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering
+- Multimodal Chain-of-Thought Reasoning in Language Models
+- LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models
+- PALI-3 VISION LANGUAGE MODELS: SMALLER, FASTER, STRONGER
+- MINIGPT-V2: LARGE LANGUAGE MODEL AS A UNIFIED INTERFACE FOR VISION-LANGUAGE MULTI-TASK LEARNING
+- UNIFYING ARCHITECTURES, TASKS, AND MODALITIES THROUGH A SIMPLE SEQUENCE-TO-SEQUENCE LEARNING FRAMEWORK
+- ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst
+- Any-to-Any Generation via Composable Diffusion
+- KOSMOS-2: Grounding Multimodal Large Language Models to the World
+- LEGO:Language Enhanced Multi-modal Grounding Model [私]
+- MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices
+- Ferret: Refer and Ground Anything Anywhere at Any Granularity
+- Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action
+- LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge
+- ImageBind: One Embedding Space To Bind Them All
+- ImageBind-LLM: Multi-modality Instruction Tuning
+- Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V [私]
+- COGVLM: VISUAL EXPERT FOR LARGE LANGUAGE MODELS
+- PaLI-X: On Scaling up a Multilingual Vision and Language Model
+- Learning to Prompt for Vision-Language Models
+- OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models
+- LLaVA: Visual Instruction Tuning
+- MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
+- Flamingo: a Visual Language Model for Few-Shot Learning
+- GLIP: Grounded Language-Image Pre-training
+- Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese
+- Vision-Language Models for Vision Tasks: A Survey
+- SimVLM: Simple Visual Language Model Pretraining with Weak Supervision
+- Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks
+- BEiT3: Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks
+- CoCa: Contrastive Captioners are Image-Text Foundation Models
+- VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts
+- InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning
+- Align before Fuse: Vision and Language Representation Learning with Momentum Distillation
+- ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision
+- BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
+- BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
+- CLIP: Learning Transferable Visual Models From Natural Language Supervision
 
 ## Others
 - [CPAL'24 (PMLR)] [Jaxpruner: A Concise Library for Sparsity Research](https://proceedings.mlr.press/v234/lee24a.html)
